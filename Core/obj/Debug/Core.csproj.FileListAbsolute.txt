@@ -1,0 +1,4 @@
+L:\koruma programları\Masaüstü yeni\Visual Studio 2013\Projects\GameCore\Core\bin\Debug\Core.dll
+L:\koruma programları\Masaüstü yeni\Visual Studio 2013\Projects\GameCore\Core\bin\Debug\Core.pdb
+L:\koruma programları\Masaüstü yeni\Visual Studio 2013\Projects\GameCore\Core\obj\Debug\Core.dll
+L:\koruma programları\Masaüstü yeni\Visual Studio 2013\Projects\GameCore\Core\obj\Debug\Core.pdb
